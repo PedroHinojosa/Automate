@@ -40,8 +40,6 @@ def pwStrength(password):
         print("Your password meets the requirements!")
         return True
             
-
-
 #main
 enterPW()
 
